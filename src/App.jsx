@@ -7,10 +7,10 @@ import data from "./data";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import "./App.css";
-import Button from "react-bootstrap/Button";
+
 import Pc from "./components/Pc";
 import Zzz from "./components/Zzz";
-import Boms from "./components/boms";
+import Boms from "./components/Boms";
 import Lolez from "./components/Lolez";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
